@@ -39,7 +39,4 @@ The easiest way to deploy your Next.js app is to use the Vercel Platform from th
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 ```
 
-### Instructions:
-1. Copy the above content.
-2. Paste it into your `README.md` file in the root directory of your GitHub project.
-3. Commit and push your changes to GitHub to update the README file on your repository page.
+
